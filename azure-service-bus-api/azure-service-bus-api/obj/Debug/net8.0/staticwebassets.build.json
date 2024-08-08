@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "FqV+KTCRIjiCukzF3J5jVwKAJ17Dq8rTXhVGqby1Zqo=",
+  "Source": "azure-service-bus-api",
+  "BasePath": "_content/azure-service-bus-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

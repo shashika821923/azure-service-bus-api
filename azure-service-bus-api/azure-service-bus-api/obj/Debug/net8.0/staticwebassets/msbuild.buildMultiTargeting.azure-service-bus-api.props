@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\azure-service-bus-api.props" />
+</Project>
